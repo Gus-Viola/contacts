@@ -1,4 +1,4 @@
-@@ -0,0 +1,117 @@
+// @@ -0,0 +1,117 @@
 import React from 'react'
 import PropTypes from 'prop-types'
  const readFileAsDataURL = (file) =>
